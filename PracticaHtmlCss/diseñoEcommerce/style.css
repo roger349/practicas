@@ -1,0 +1,47 @@
+body {
+  background-color: aquamarine;
+}
+#opciones{
+  background-color:blue;
+  padding-left:30px;
+  color: azure;
+  height:590px;
+}
+#banner{
+   background-color:blueviolet;
+   height:130px;
+   color: azure; 
+}
+#buscador{
+  background-color: rgb(255, 0, 242);
+  height:70px;
+  color: azure;
+}
+#mostrarProductos{
+  background-color:rgb(33, 233, 33);
+  height: 390px;
+  color: azure;
+}
+#carrito{
+  background-color:blue;
+  padding-left:30px;
+  color: azure;
+}
+footer{
+  background-color: rgb(235, 11, 104);
+  height:45px;
+  color:azure;
+}
+#carritoCompras{
+  width:50px;
+  height:80px;
+
+}
+#login{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width:50px;
+  height:50px;
+}
+
+
